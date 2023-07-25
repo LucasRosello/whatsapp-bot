@@ -1,0 +1,360 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160312081@s.whatsapp.net',
+    fromMe: false,
+    id: '5E10451C83A64F63ECF5D37F9326962F',
+    participant: undefined
+  },
+  messageTimestamp: 1690241520,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mision',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mision',
+  from: '5491160312081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160312081@s.whatsapp.net',
+    fromMe: false,
+    id: '6DF5C704C0E2F6BA4E28DD496DFBEF6A',
+    participant: undefined
+  },
+  messageTimestamp: 1690241523,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5491160312081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160312081@s.whatsapp.net',
+    fromMe: false,
+    id: 'DF5EF7D7A2CDC954FEC9CED301E97FD1',
+    participant: undefined
+  },
+  messageTimestamp: 1690241525,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si te dije',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si te dije',
+  from: '5491160312081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160312081@s.whatsapp.net',
+    fromMe: false,
+    id: '63ED0BC1C74ACAEBFBFAC1132CF08FDE',
+    participant: undefined
+  },
+  messageTimestamp: 1690241528,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pista',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pista',
+  from: '5491160312081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160312081@s.whatsapp.net',
+    fromMe: false,
+    id: '90D0C767B99C562EA38C94E50EB548C8',
+    participant: undefined
+  },
+  messageTimestamp: 1690241530,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Adivinar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Adivinar',
+  from: '5491160312081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160312081@s.whatsapp.net',
+    fromMe: false,
+    id: '8FFD27A9F30693B43789F66754367C6B',
+    participant: undefined
+  },
+  messageTimestamp: 1690241531,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No',
+  from: '5491160312081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160312081@s.whatsapp.net',
+    fromMe: false,
+    id: 'DD391CA22E26C4D3A784190CB4620F33',
+    participant: undefined
+  },
+  messageTimestamp: 1690241533,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Adivinar',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Adivinar',
+  from: '5491160312081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160312081@s.whatsapp.net',
+    fromMe: false,
+    id: '578D8BC3E7F370E48083A0D2184CD706',
+    participant: undefined
+  },
+  messageTimestamp: 1690241535,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bucanero',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Bucanero',
+  from: '5491160312081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160312081@s.whatsapp.net',
+    fromMe: false,
+    id: 'B51E772F5504615CB4A364BF0D53F936',
+    participant: undefined
+  },
+  messageTimestamp: 1690241537,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Loro',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Loro',
+  from: '5491160312081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160312081@s.whatsapp.net',
+    fromMe: false,
+    id: '5277D01775A6B80E0D84533E903DE7F6',
+    participant: undefined
+  },
+  messageTimestamp: 1690241729,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mision',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mision',
+  from: '5491160312081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160312081@s.whatsapp.net',
+    fromMe: false,
+    id: 'BFC3404EA52BACD955F3BF59E9B4D640',
+    participant: undefined
+  },
+  messageTimestamp: 1690241827,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5491160312081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160312081@s.whatsapp.net',
+    fromMe: false,
+    id: '09E0EF923E7C0EE34ED2D1AC9397F822',
+    participant: undefined
+  },
+  messageTimestamp: 1690241829,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si voy',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si voy',
+  from: '5491160312081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491160312081@s.whatsapp.net',
+    fromMe: false,
+    id: 'C6018E2A1E39063908B05C5FA6023D0F',
+    participant: undefined
+  },
+  messageTimestamp: 1690241832,
+  pushName: 'Lucas',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pista',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pista',
+  from: '5491160312081'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165315259@s.whatsapp.net',
+    fromMe: false,
+    id: 'E48E132EA348023589DE4C4F6B374D93',
+    participant: undefined
+  },
+  messageTimestamp: 1690242975,
+  pushName: 'Giu',
+  broadcast: false,
+  message: Message {
+    conversation: 'Holisss ya estaba triste',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Holisss ya estaba triste',
+  from: '5491165315259'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165315259@s.whatsapp.net',
+    fromMe: false,
+    id: '3051661F2B66F66D24662A7A3884C30A',
+    participant: undefined
+  },
+  messageTimestamp: 1690242978,
+  pushName: 'Giu',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mision',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mision',
+  from: '5491165315259'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165315259@s.whatsapp.net',
+    fromMe: false,
+    id: '0EC7BB76A2F4CA3453AA7D63C45318B2',
+    participant: undefined
+  },
+  messageTimestamp: 1690242987,
+  pushName: 'Giu',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajajaja siii',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajajaja siii',
+  from: '5491165315259'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165315259@s.whatsapp.net',
+    fromMe: false,
+    id: '035390A40C2C7587AEA42C1642CD38DA',
+    participant: undefined
+  },
+  messageTimestamp: 1690243000,
+  pushName: 'Giu',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lcqtp',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Lcqtp',
+  from: '5491165315259'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5491165315259@s.whatsapp.net',
+    fromMe: false,
+    id: '2012381D8E84345F6E9339537764E3D1',
+    participant: undefined
+  },
+  messageTimestamp: 1690243962,
+  pushName: 'Giu',
+  broadcast: false,
+  message: Message {
+    conversation: 'Para conchudp estoy comiendo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Para conchudp estoy comiendo',
+  from: '5491165315259'
+}

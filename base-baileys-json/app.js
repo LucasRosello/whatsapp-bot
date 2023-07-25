@@ -8,9 +8,9 @@ const JsonFileAdapter = require('@bot-whatsapp/database/json')
 const flowPista = addKeyword(['Quiero una pista', 'pista'])
     .addAnswer('Dale que no es tan dificil, recorda que podes googlear')
 
-    const flowString = addKeyword('botones').addAnswer('Este mensaje envia tres botones', {
-        buttons: [{ body: 'Boton 1' }, { body: 'Boton 2' }, { body: 'Boton 3' }],
-    })
+    // const flowString = addKeyword('botones').addAnswer('Este mensaje envia tres botones', {
+    //     buttons: [{ body: 'Boton 1' }, { body: 'Boton 2' }, { body: 'Boton 3' }],
+    // })
     
 
 const flowPrincipal = addKeyword(['hola', 'ole', 'alo'])
@@ -29,13 +29,13 @@ const flowPrincipal = addKeyword(['hola', 'ole', 'alo'])
         ]
     )
     .addAnswer('Alguna pregunta?')
-    .addAnswer('To?', {
-        buttons: [{ body: 'Telefonos' }, { body: 'Computadoras' }, { body: 'Otros' }],
-    })
+    // .addAnswer('To?', {
+    //     buttons: [{ body: 'Telefonos' }, { body: 'Computadoras' }, { body: 'Otros' }],
+    // })
 
 const main = async () => {
     const adapterDB = new JsonFileAdapter()
-    const adapterFlow = createFlow([flowPrincipal, flowString])
+    const adapterFlow = createFlow([flowPrincipal])
     const adapterProvider = createProvider(BaileysProvider)
 
     createBot({
